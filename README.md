@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Josue Paulin Martinez</h1>
-<h3 align="center">Estudio en la UPVT, estoy por concluir mis carrera :)</h3>
+<h3 align="center">Estudio en la UPVT, estoy por concluir mi carrera :)</h3>
 
 <br>
 
