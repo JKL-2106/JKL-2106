@@ -120,7 +120,3 @@
       alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
-
-
-
-[Adam-pw](https://github.com/Adam-pw)
