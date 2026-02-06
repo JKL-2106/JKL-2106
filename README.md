@@ -3,10 +3,6 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
-
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
@@ -125,37 +121,6 @@
   </a>
 </p>
 
-
-
-<h3 align="left">📊 GitHub Estadísticas</h3>
-
-<!-- Lenguajes más usados -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JKL-2106&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff"
-    alt="Top Languages"
-  />
-</p>
-
-<br>
-
-<!-- Estadísticas generales -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JKL-2106&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
-    alt="GitHub Stats"
-  />
-</p>
-
-<br>
-
-<!-- Racha de contribuciones -->
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=JKL-2106&theme=dark&background=0d1117"
-    alt="GitHub Streak"
-  />
-</p>
 
 
 [Adam-pw](https://github.com/Adam-pw)
