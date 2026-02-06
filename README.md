@@ -120,3 +120,21 @@
       alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
+
+
+
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JKL-2106&layout=compact&bg_color=0d1117&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JKL-2106&show_icons=true&bg_color=0d1117&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JKL-2106&theme=dark&background=0d1117" />
+</p>
+
